@@ -2,7 +2,7 @@
 
 Student Information: Tristan Isaacs ST10466448 Group 1
 
-Project Overview: This is a source code for a brand new online book store. Book Haven looks to build a user friendly website that has the necessary features and is easy to use. Currently the website is built only using HTML but soon will include CSS to make look like a comfortable enviroment.
+Project Overview: This is a source code for a brand new online book store. Book Haven looks to build a user friendly website that has the necessary features and is easy to use. Currently the website is built only using HTML, JavaScript but soon will include CSS to make look like a comfortable enviroment.
 
 Goals: The primary goal of Book Haven is too become the top online bookstore for anybody looking for books in multiple genres. The goal is to also create a good user experience and create a business with a strong identity.
 
