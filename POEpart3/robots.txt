@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /process_enquiry.php
+Disallow: /process_order.php
+Sitemap: https://example.com/sitemap.xml
